@@ -1,6 +1,6 @@
 # Практическая работа 1
 
-- [Отчет по пр1](/practicds/tree/main/practice).
+- [Отчет по пр1](/practice/otchet_pr_1.pdf).
 
 # Практическая работа 2
 
