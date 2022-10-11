@@ -5,3 +5,7 @@
 # Практическая работа 2
 
 - [Отчет по пр2](/practica/pr_2.pdf).
+
+# Практическая работа 6
+
+- [Отчет по пр6](/practicds/blob/main/failure_detection/failure_detection.pdf).
