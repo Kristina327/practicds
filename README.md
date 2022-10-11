@@ -9,3 +9,7 @@
 # Практическая работа 6
 
 - [Отчет по пр6](/failure_detection/failure_detection.pdf).
+
+# Практическа работа zeromq
+
+- [Отчет по пр6](/dz_02/zeromq.pdf).
