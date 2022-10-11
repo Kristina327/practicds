@@ -8,4 +8,4 @@
 
 # Практическая работа 6
 
-- [Отчет по пр6](/practicds/failure_detection/failure_detection.pdf).
+- [Отчет по пр6](/failure_detection/failure_detection.pdf).
